@@ -1,0 +1,109 @@
+{
+  "version": "1.13.0",
+  "aspectRatio": "2.39",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "4HITB",
+      "url": "board-2-4HITB.png",
+      "newShot": false,
+      "lastEdited": 1568557595749,
+      "layers": {
+        "pencil": {
+          "url": "board-2-4HITB-pencil.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 20560.270764952867,
+      "dialogue": "\"Tee-Shirt Winery sure is the new cool thing\" \"They have quite the following!\" \"Do you really want to drink wine from a place with foot in it's name?\"",
+      "action": "",
+      "notes": ""
+    },
+    {
+      "uid": "MT03P",
+      "url": "board-5-MT03P.png",
+      "newShot": false,
+      "lastEdited": 1568561615589,
+      "layers": {
+        "pencil": {
+          "url": "board-5-MT03P-pencil.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 14293.739253066977,
+      "dialogue": "\"They're the same price and same quality why would I choose Tee-Shirt wine over Barefoot wine?\" \"While that may be true, Tee-Shirt Winery has much more to offer than just wine.\" \"Tee-Shirt Winery is the next big thing, all the big names are talking about it.\""
+    },
+    {
+      "uid": "HRV9R",
+      "url": "board-2-HRV9R.png",
+      "newShot": false,
+      "lastEdited": 1568558279668,
+      "layers": {
+        "pencil": {
+          "url": "board-2-HRV9R-pencil.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 4000,
+      "lineMileage": 14222.232798058196,
+      "dialogue": "\"Check Out my Free Tee-Shirt Winery shirt!\" \"Wow. That's nice. I had to buy mine for $20.00 and it has this massive foot on it, I tried to return it but they don't accept returns.\" "
+    },
+    {
+      "uid": "QE3MW",
+      "url": "board-3-QE3MW.png",
+      "newShot": false,
+      "lastEdited": 1568559474292,
+      "layers": {
+        "pencil": {
+          "url": "board-3-QE3MW-pencil.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 6000,
+      "lineMileage": 9308.285352478386,
+      "dialogue": "\"Wow! I like this shirt a lot more! I'm glad I came to Tee-Shirt Winery while this limited time offer was still available. I really feel like a valued customer now! Can't wait to tell all my friends!\""
+    },
+    {
+      "uid": "VC795",
+      "url": "board-4-VC795.png",
+      "newShot": false,
+      "lastEdited": 1568559914013,
+      "layers": {
+        "pencil": {
+          "url": "board-4-VC795-pencil.png"
+        },
+        "shot-generator": {
+          "url": "board-4-VC795-shot-generator.png"
+        },
+        "reference": {
+          "url": "board-4-VC795-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-VC795-fill.png"
+        },
+        "tone": {
+          "url": "board-4-VC795-tone.png"
+        },
+        "ink": {
+          "url": "board-4-VC795-ink.png"
+        },
+        "notes": {
+          "url": "board-4-VC795-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 8000,
+      "lineMileage": 130435.92130802068,
+      "dialogue": "\"This is quite the fun place!\" \"What great weather to be outside in!\" \"I feel so free here! Not a care in the world!\"\nVisit Tee-ShirtWinery.com today and a find a location near you!"
+    }
+  ]
+}
